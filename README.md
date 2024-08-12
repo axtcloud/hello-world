@@ -1,3 +1,2 @@
 # hello-world
-Dieses Repository dient zum Üben des GitHub-Flows.
-Neuer Branch.
+This repository is for practicing the GitHub Flow.
